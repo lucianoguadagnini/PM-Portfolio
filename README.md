@@ -53,16 +53,17 @@ I have extensive experience in overseeing software development projects, leading
 ## Skills and Tools
 - **Skills**: Agile Project Management, Leadership, Organization, Communication, Staff Management, Strategic planning and dev, Client / User experience design, Customer-facing communications, User Research, Data Analysis, Product Strategy
 - **Tools**:
--**Project Management and Collaboration:** Asana, Microsoft Project, Monday, Basecamp, Slack.
--**Roadmapping and Product Management:** Aha!, Productboard, Roadmunk.
--**Analytics and Data Visualization:** Tableau, Looker, Google Data Studio, Amplitude.
--**User Research and Feedback:** SurveyMonkey, Typeform, Hotjar.
--**Design and Prototyping:** Figma, Adobe XD.
--**Development and Integration:** GitHub, Bitbucket.
--**Customer Relationship Management (CRM):** Salesforce, HubSpot, Zoho CRM, Recruit CRM, GreenHouse.
--**Automation and Productivity:** Zapie, Notion.
--**Communication and Documentation:** Confluence, Microsoft Teams, Evernote.
--**Customer Support and Engagement:** Intercom, Zendesk.
+-
+  -**Project Management and Collaboration:** Asana, Microsoft Project, Monday, Basecamp, Slack.
+  -**Roadmapping and Product Management:** Aha!, Productboard, Roadmunk.
+  -**Analytics and Data Visualization:** Tableau, Looker, Google Data Studio, Amplitude.
+  -**User Research and Feedback:** SurveyMonkey, Typeform, Hotjar.
+  -**Design and Prototyping:** Figma, Adobe XD.
+  -**Development and Integration:** GitHub, Bitbucket.
+  -**Customer Relationship Management (CRM):** Salesforce, HubSpot, Zoho CRM, Recruit CRM, GreenHouse.
+  -**Automation and Productivity:** Zapie, Notion.
+  -**Communication and Documentation:** Confluence, Microsoft Teams, Evernote.
+  -**Customer Support and Engagement:** Intercom, Zendesk.
   
 ## Contact
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lucianoguadagnini) or via email at lucianoguadagnini@gmail.com.
