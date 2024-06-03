@@ -51,9 +51,9 @@ I have extensive experience in overseeing software development projects, leading
 - **Outcome**: Achieved 99% SLA for five accounts and was designated Most Valued Player.
 
 ## Skills and Tools
-- **Skills**: Agile Project Management, User Research, Data Analysis, Product Strategy
-- **Tools**: JIRA, Trello, Google Analytics, MySQL, Balsamiq, SQL
+- **Skills**: Agile Project Management, Leadership, Organization, Communication, Staff Management, Strategic planning and dev, Client / User experience design, Customer-facing communications, User Research, Data Analysis, Product Strategy
+- **Tools**: JIRA, Trello, Google Suite, Kibana, SQL
 
 ## Contact
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or via email at lucianoguadagnini@gmail.com.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lucianoguadagnini) or via email at lucianoguadagnini@gmail.com.
 
