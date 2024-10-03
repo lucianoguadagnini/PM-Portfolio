@@ -1,69 +1,78 @@
-# Luciano Guadagnini - PM Portfolio
+# 👋 Hi, I'm Luciano Guadagnini
 
-## Introduction
-Hello! I'm Luciano Guadagnini, a seasoned Product Manager with over a decade of experience in project and product management, specializing in software development and technological infrastructure projects. This repository showcases my skills, projects, and experiences.
+## 🌟 About Me
+I am a Senior Project Manager, Engineer and Delivery Manager with over 10 years of experience in project and product management, software development, technological infrastructure, and team leadership. My passion lies in solving customer problems through resilience and cutting-edge technology, creating and optimizing processes that truly make a difference.
 
-## Table of Contents
-1. [About Me](#about-me)
-2. [Projects](#projects)
-   - [Project 1: Strategic Product Growth at Eureka Labs](#project-1-strategic-product-growth-at-eureka-labs)
-   - [Project 2: Omnichannel Software Implementation at Claro](#project-2-omnichannel-software-implementation-at-claro)
-   - [Project 3: Commercial and Technical Performance at Apex América](#project-3-commercial-and-technical-performance-at-apex-américa)
-   - [Project 4: Global Project Management at HP Enterprise](#project-4-global-project-management-at-hp-enterprise)
-3. [Skills and Tools](#skills-and-tools)
-4. [Contact](#contact)
+I thrive in environments where strategic planning, high performance, and cross-functional team collaboration are essential. My experience spans multiple industries, with a particular emphasis on customer experience, international service delivery, and ISO audit certifications.
 
-## About Me
-I have extensive experience in overseeing software development projects, leading high-performance teams, and negotiating with international clients and suppliers. My strengths lie in problem-solving, strategic planning, and fostering team dynamics to achieve critical results.
+## 💼 Professional Experience
 
-## Projects
+### **Sand Technologies | Senior Project Manager & Talent Operations**  
+_May 2023 - May 2024_  
+- Directed talent acquisition for over 200 professionals, achieving a 25% talent pool expansion.
+- Boosted community engagement by 40% and improved service quality by 20%.
+- Spearheaded initiatives to enhance talent retention and satisfaction.
 
-### Project 1: Strategic Product Growth at Eureka Labs
-- **Role**: Engineer and Delivery Manager
-- **Objective**: Propel product growth and ensure seamless delivery.
-- **Problem Statement**: Need to identify untapped market opportunities and implement effective growth strategies.
-- **Research and Analysis**: Conducted market trend analysis, competitor landscape studies, and customer feedback evaluations.
-- **Solution**: Formulated and executed innovative strategies for product expansion.
-- **Outcome**: Successfully expanded the product portfolio and aligned with organizational objectives.
+### **B1-TEAM | Engineer and Delivery Manager**  
+_May 2022 - Aug 2023_  
+- Led product growth initiatives by analyzing market trends and refining product features.
+- Fostered an environment for proactive problem-solving and maintained project momentum.
+- Utilized over a decade of IT management experience to enhance productivity and align team efforts with organizational goals.
 
-### Project 2: Omnichannel Software Implementation at Claro
-- **Role**: Project Manager, Head of Customer Experience
-- **Objective**: Develop and implement omnichannel software to enhance customer experience.
-- **Problem Statement**: High customer service inefficiencies and fragmented user experiences.
-- **Research and Analysis**: Conducted comprehensive user research and collaborated with IT, purchasing, and other departments.
-- **Solution**: Orchestrated product launches and defined a long-term product roadmap.
-- **Outcome**: Increased revenue by 35% through three successful product launches.
+### **Universidad Empresarial 'Siglo 21' | Professor and Postgraduate Thesis Director**  
+_Dec 2020 - May 2023_  
+- Directed and mentored MBA students through advanced business courses and thesis supervision.
+- Provided practical insights and theoretical knowledge to foster academic excellence.
 
-### Project 3: Commercial and Technical Performance at Apex América
-- **Role**: Technical Account Manager
-- **Objective**: Optimize account performance and enhance service strategies.
-- **Problem Statement**: Need for improved account management and technical performance.
-- **Research and Analysis**: Monitored market trends and competitor performance.
-- **Solution**: Implemented Agile product development and automated service strategies.
-- **Outcome**: Improved EBITDA by 13% and increased GPTW indicator to 82%.
+### **Andela | Senior Project Manager & Matching Operations Coordinator**  
+_May 2022 - Mar 2023_  
+- Streamlined talent matching operations, reducing time-to-fill by 15%.
+- Implemented quality control frameworks to enhance candidate placement accuracy.
 
-### Project 4: Global Project Management at HP Enterprise
-- **Role**: Project Manager Team Lead
-- **Objective**: Lead software development and remote support teams.
-- **Problem Statement**: Maintain high SLA and SLO performance.
-- **Research and Analysis**: Analyzed KPIs and technical productivity metrics.
-- **Solution**: Executed global technical trainings and managed incidents, problems, and changes.
-- **Outcome**: Achieved 99% SLA for five accounts and was designated Most Valued Player.
+### **Claro Argentina | Senior Project Manager & Head of Customer Experience**  
+_Sep 2019 - Jun 2022_  
+- Developed omnichannel solutions, leading to a 35% increase in revenue.
+- Managed project approvals, scope definition, and cross-functional collaboration with IT, engineering, and quality teams.
 
-## Skills and Tools
-- **Skills**: Agile Project Management, Leadership, Organization, Communication, Staff Management, Strategic planning and dev, Client / User experience design, Customer-facing communications, User Research, Data Analysis, Product Strategy
-- **Tools**:
-  - **Project Management and Collaboration:** Asana, Microsoft Project, Monday, Basecamp, Slack.
-  - **Roadmapping and Product Management:** Aha!, Productboard, Roadmunk.
-  - **Analytics and Data Visualization:** Tableau, Looker, Google Data Studio, Amplitude.
-  - **User Research and Feedback:** SurveyMonkey, Typeform, Hotjar.
-  - **Design and Prototyping:** Figma, Adobe XD.
-  - **Development and Integration:** GitHub, Bitbucket.
-  - **Customer Relationship Management (CRM):** Salesforce, HubSpot, Zoho CRM, Recruit CRM, GreenHouse.
-  - **Automation and Productivity:** Zapie, Notion.
-  - **Communication and Documentation:** Confluence, Microsoft Teams, Evernote.
-  - **Customer Support and Engagement:** Intercom, Zendesk.
-  
-## Contact
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lucianoguadagnini) or via email at lucianoguadagnini@gmail.com.
+### **Agencia ProCórdoba | International Software Development Program Consultant**  
+_May 2021 - May 2022_  
+- Promoted the productive supply of IT services in Córdoba.
+- Focused on developing export companies and international strategic alliances.
 
+## 📊 Key Skills
+- **Project Management**: Agile, Staff Management, Project Roadmap, User Experience Design, Customer-facing Communications.
+- **Technology**: Software Development, Technological Infrastructure, Cloud/B2B Products, Data Analytics.
+- **Leadership**: Team Building, Strategic Planning, Development, Problem Solving.
+- **Industry Expertise**: Customer Experience, Recruitment & Talent Acquisition, Product Growth.
+
+## 📜 Certifications
+- **Project Management: Teams** | PMI®
+- **Product Owner**
+- **Specialization in B2B Sales for Technology-Based Products and Services**
+- **Dynamic Decision Making**
+- **Project Management Fundamentals** | PMI®
+
+## 🌍 Languages
+- **Spanish**: Native
+- **English**: Full Professional Proficiency
+
+## 🎓 Education
+- **MBA, Business Administration**  
+  _Universidad Empresarial 'Siglo 21' (2015-2017)_
+
+- **Systems Engineer, Systems Engineering**  
+  _Instituto Universitario Aeronáutico (2004-2012)_
+
+- **Systems Analyst, Informatics Engineering**  
+  _Instituto Universitario Aeronáutico (2004-2011)_
+
+- **CCNA, Telecommunications**  
+  _Cisco Networking Academy (2006-2008)_
+
+## 📬 Let's Connect!
+- **Email**: [lucianoguadagnini@gmail.com](mailto:lucianoguadagnini@gmail.com)
+- **LinkedIn**: [linkedin.com/in/lucianoguadagnini](https://www.linkedin.com/in/lucianoguadagnini)
+
+---
+
+I am always eager to connect with like-minded professionals and collaborate on exciting projects. If my background aligns with what you're looking for, feel free to reach out!
